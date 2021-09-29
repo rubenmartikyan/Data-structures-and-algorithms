@@ -1,0 +1,21 @@
+Class Summary 29.09
+
+Even though I was late from the class I was able to understand the majority of the lecture.
+Presumably the class started from the explanation of the linked list.
+Linked list is a linear collection of data elements whose order is not given by their physical placement memory.
+The way it works is that it has a node which points from one element to the other.
+Collection of nodes together assemble a data structure and it represents a sequence.
+Each element has to have at least data and a reference to its previous and next elements.
+The key factore of linked list is that each element can only be accessed in particular order.
+One of the best real life examples for easier visualization is the roll of paper as it has to be unrolled to get to the specific point of it.
+We have discussed the circular linked list as well
+Below you can see my visualization of the circular example :)
+All of the elements have nodes to their previous and next and the last elements next elements is the first elements preious.
+               gg
+             gg   gg
+          gg         gg
+            gg    gg
+               gg
+
+After understanding the linked list we went on to continue the discussions about the complexity of algorithms.
+This time we covered an example of simplest logarithmic algorithm which complexity was LogN.
