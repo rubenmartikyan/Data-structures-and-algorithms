@@ -1,0 +1,14 @@
+Class Review 01.10
+
+The class was an overview about sorting algorithms.
+We were shared 5 ways of soring algorthms out of which 2 we were able to discuss during the class:
+-Selection sort
+-Bubble sort
+During the class we discussed the unique ways of the execution of this algrithms and its usages.
+Both algorithms have their own aspects. Throughout the class we discussed the general forms of it (a-an) and did
+our own handwritten examples on the whiteboard on the simple examples made from couple of numbers. This helped me
+to understand the sorting algorithms a lot better.
+I would like to highlight the fact that the sequence with which the explanations of these algorithms were on the slides
+as it made whole a lot sense.
+Sadly we had no time to cover all of them in one class but I hope I will not forget the way these algorithms function
+untill the next class.
