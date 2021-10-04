@@ -1,0 +1,12 @@
+Class Summary 04.10
+
+Today was the continuation of the class of sorting algorithms. We did a revisions of the bubble sort and selection sort
+which we covered during the class of 01.10.
+This time we covered insertion sort and did several examples of all these to understand the differences of
+these algorithms a lot better. Of course we covered the complexity of these algorithms which were O(n^2).
+Lastly during the last 20 minutes of the class we covered the merge sort, which was the most satisfying and disturbing
+algorthm at the same time. The best part of merge sort is that its complexity is O(nLog(n)) which we know from
+basic calculus is smaller than n^2.
+Lastly we were left with the quick sort which we were not able to cover as we were low on time.
+But out of all these classes during these semester this and the last one were the only ones which were 100% 
+understandable.
