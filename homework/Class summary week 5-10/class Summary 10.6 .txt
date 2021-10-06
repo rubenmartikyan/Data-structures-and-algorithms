@@ -1,0 +1,10 @@
+Class Summary 10.06
+
+Today was the code implementation of of the sorting algorithms which we covered during previous classes.
+As an in class activity we did Selection sort, and the bubble sort was given as homework.
+Most of the code was clear to me, however due to the lack of knowledge of the language C I had difficulties understanding the algorithm written
+in that form.
+Due to that I took all of my will powers in my hand and went to the OH with Narine :D
+Narine explained several key factors which were needed to undersand the C language and now I understand the algorithm in C a little bit less bad.
+Most likely until the end of the semester I will have the key knowledge to implement algorithms in C.
+See you in next summar.
