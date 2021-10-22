@@ -1,0 +1,18 @@
+arr1 = [3, 8, 9, 21]
+arr2 = [21, 9, 8, 3]
+
+x = len(arr1)
+y = len(arr2)
+d = 0
+
+if x == y:
+    for i in arr1:
+        if i == arr2[y-1]:
+            d= d+1
+            y = y-1
+else: print("not anogram by length")
+
+if d == len(arr1):
+    print("anogram")
+else: print("not anogram by numbers")
+
