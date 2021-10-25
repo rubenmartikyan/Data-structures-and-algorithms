@@ -1,0 +1,9 @@
+arr = [1, 0, 1, 1, 1, 0]
+x = len(arr) - 1
+dec = 0
+
+for i in arr:
+    dec = i*(2**x) + dec
+    x = x - 1
+
+print(dec)
