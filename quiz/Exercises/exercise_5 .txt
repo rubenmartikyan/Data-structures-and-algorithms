@@ -1,0 +1,13 @@
+arr = [2, 3, 8]
+prod = 1
+t = 0
+
+for i in arr:
+    t = t + 1
+    
+for i in arr:
+    prod = prod*i
+
+avg = prod/t
+
+print(avg)

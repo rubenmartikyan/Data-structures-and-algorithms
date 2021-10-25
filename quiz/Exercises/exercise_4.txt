@@ -1,0 +1,7 @@
+arr = [2, 3, 8, 10]
+prod = 1
+
+for i in arr:
+    prod = prod*i
+
+print(prod)
