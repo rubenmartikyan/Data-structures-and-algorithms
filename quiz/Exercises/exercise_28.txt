@@ -1,0 +1,16 @@
+arr = [4, 8, 13, 17, 25, 29, 181, 191, 193, 197, 239, 5, 20]
+arrp = []
+
+for i in arr:
+    k = 1
+    t = 0
+    while k <= i:
+        if i%k == 0:
+            t = t + 1
+            k = k + 1
+        else: k = k + 1
+        
+    if t < 3:
+        arrp.append(i)
+
+print(arrp) 
