@@ -1,0 +1,31 @@
+arro = [207, 201, 12, 17]
+arr = []
+
+for i in arro:
+    i = str(i)
+    t = 0
+     
+    for s in i:
+        s = int(s)
+         
+        if s <= 7 and s >=0:
+            t = t + 1
+                
+if t == len(i):
+        
+    for x in arro:
+        x = str(x)
+        k = len(x) - 1
+        dec = 0
+            
+        for z in x:
+            z = int(z)
+            dec = z*(8**k) + dec
+            k = k - 1
+            
+        arr.append(dec)
+        
+    print(arr)
+
+else:
+    print("not octal numbers")

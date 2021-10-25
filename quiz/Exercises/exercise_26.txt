@@ -1,0 +1,10 @@
+arr = [8, 7, 0, 3, 2, 9, 0]
+total = 0
+k = 10
+x = len(arr) - 1
+
+for i in arr:
+    total = i*(k**x) + total
+    x = x - 1
+
+print(total)

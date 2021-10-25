@@ -1,0 +1,32 @@
+arr = [10, 101, 111, 1111, 2]
+arrd = []
+t = 0
+p = 0
+
+for i in arr:
+    i = str(i)
+    for k in i:
+        
+        k = int(k)
+        if k == 0 or k == 1:
+            t = t + 1
+    if t == len(i):
+        p = p + 1
+    t = 0
+            
+if p == len(arr):
+    for s in arr:
+        s = str(s)
+        x = len(s)-1
+        dec = 0
+        
+        for z in s:
+            z = int(z)
+            dec = z*(2**x)+dec
+            x = x-1
+            
+        arrd.append(dec)
+    print(arrd)
+
+else:
+    print("not binary numbers in the array")
