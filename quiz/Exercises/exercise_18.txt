@@ -1,0 +1,10 @@
+arr = [20, 19, 37, 67, 18, 9, 38]
+print(arr)
+
+x = input("Which item you want to remove: ")
+print(x)
+
+x = int(x)
+
+arr.remove(x)
+print(arr)
